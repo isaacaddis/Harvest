@@ -3,8 +3,11 @@
   Check out some of my work!
 */
 ::selection{
-  background-color:green;
+  background-color:blue;
 }
 ul li{
   color:black;
+}
+#main{
+  height:60vh;
 }
